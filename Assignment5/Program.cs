@@ -38,6 +38,16 @@
 
 
             #endregion
+
+            #region SecoundProject
+            int a = 40;
+            int b = 20;
+            Console.WriteLine($"{Math.Add(a, b)}");
+            Console.WriteLine($"{Math.Sub(a, b)}");
+            Console.WriteLine($"{Math.Mul(a, b)}");
+            Console.WriteLine($"{Math.Div(a, b)}");
+            #endregion
+
         }
     }
 }
